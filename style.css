@@ -142,6 +142,7 @@ nav li {
 }
 
 img{
+    size: 30%;
     box-shadow: 5px 10px 3px 8px grey ;
 }
 .flex {
