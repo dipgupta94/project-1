@@ -160,7 +160,7 @@ form input,textarea,button{
 }
 
 .nav-wrapper{
-    background-color: rgb(235, 110, 110);
+    background-color: rgb(179, 11, 11);
 }
 
 .contact-box{
@@ -179,6 +179,10 @@ form input,textarea,button{
 
 body {
     margin: 40px;
+    background-image: "p1.jpg";
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
   }
   
   .wrapper {
